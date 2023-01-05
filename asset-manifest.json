@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ClimaJunior/static/css/main.54f87b78.css",
+    "main.js": "/ClimaJunior/static/js/main.e1944b03.js",
+    "index.html": "/ClimaJunior/index.html",
+    "main.54f87b78.css.map": "/ClimaJunior/static/css/main.54f87b78.css.map",
+    "main.e1944b03.js.map": "/ClimaJunior/static/js/main.e1944b03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54f87b78.css",
+    "static/js/main.e1944b03.js"
+  ]
+}
